@@ -6,10 +6,13 @@ html, body {
     overflow-x: hidden;
   }
 html {
-  font-family: 'Orbitron', sans-serif;
+  /* font-family: 'Orbitron', sans-serif; */
     /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
     line-height: 1.4;
   }
+.head .domainwrapper {
+  font-family: 'Orbitron', sans-serif;
+}
 body{
     height: 100%;
     margin: 0;
